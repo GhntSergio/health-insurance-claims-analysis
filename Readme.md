@@ -1,5 +1,7 @@
 # Health Insurance Claims Analysis
 
+> 🇬🇧 **English summary:** Analysis of health insurance claims to provide insurance managers with detailed reports and insights. Includes Python notebooks, scripts and datasets.
+
 ## Contexte
 
 Ce projet vise à analyser les réclamations d'assurance santé en fournissant des rapports détaillés aux responsables des assurances santé. L'objectif est d'extraire des rapports permettant d'analyser les réclamations, de présenter des insights aux responsables de gestion, et de visualiser les données via Tableau.
